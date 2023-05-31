@@ -5,6 +5,9 @@ AM STILL WORKING ON THIS BUT I SOLVE PROBLEMS. TAG ME FOR A CONTRIBUTION
   <a href="https://github.com/MosesMuiru">
     <img height="40%" src="https://github-readme-stats.vercel.app/api?username=MosesMuiru&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&layout=compact"/>
   </a>
+  <div>
+  <img width="46%", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesMuiru&hide=html,shell&langs_count=10&layout=compact&theme=light" />
+</div>
 
   <a href="https://github.com/ochiengotieno304">
     <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesMuiru&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css"/>
